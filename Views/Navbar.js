@@ -41,12 +41,12 @@ const styles = StyleSheet.create({
       
     },
     searchContainer:{
-      width:'90%',
-      elevation:2,
+      width:'95%',
+   borderWidth:2,
       borderRadius:10,
 flexDirection:'row',
 alignItems:'center',
-padding:0,
+
 
 
 

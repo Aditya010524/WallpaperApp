@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
 
   Container:{
     alignItems:'center',
+    backgroundColor:'white'
   },
 text:{
   
@@ -61,15 +62,17 @@ text:{
     width:'50%',
     alignItems:'center',
     justifyContent:'center',
-    marginVertical:2,
+    marginVertical:0,
+   
   },
 image:{
 height:400,
 width:200,
 padding:20,
 borderColor:'black',
-borderWidth:2,
-borderRadius:5,
+borderRightWidth:2,
+borderBottomWidth:1,
+borderRadius:0,
 elevation:10
 
 }
