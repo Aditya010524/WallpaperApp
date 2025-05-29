@@ -43,9 +43,6 @@ Open it in Expo Go on your phone or an emulator.
 Make sure you replace YOUR_UNSPLASH_ACCESS_KEY in Screen2.js with your own Unsplash developer access key.
 You can get one for free by signing up at https://unsplash.com/developers.
 
-js
-Copy
-Edit
 const response = await fetch('https://api.unsplash.com/photos/random?client_id={}');
 📦 Built With
 React Native
