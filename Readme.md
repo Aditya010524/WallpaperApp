@@ -15,11 +15,9 @@ A beautiful React Native app built using Expo that lets users view, download, an
 
 > Here's a screen recording of the app in action:
 ### Demo Video
+https://github.com/user-attachments/assets/dba92c6e-e1cf-4aa0-9e6b-0a1391683403
 
-<video width="600" controls>
-  <source src="assets/demo-video.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
+
 
 
 ## 🚀 Getting Started
